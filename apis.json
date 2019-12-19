@@ -1,0 +1,50 @@
+{
+    "name": "The Web Blend",
+    "description": "The Web Blend SEO and UX Tools is a bundled collection of best seo\/ux tools website. We offer all for free of charge, Such as XML Sitemap Generator, Plagiarism Checker, Article Rewriter & more.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1179-the-web-blend.jpg",
+    "tags": [
+        "bookmarks",
+        "coding",
+        "communities",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/the-web-blend\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "The Web Blend",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1179-the-web-blend.jpg",
+            "humanURL": "http:\/\/www.thewebblend.com\/api",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/the-web-blend-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/feeds.feedburner.com\/TheWebBlend"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.thewebblend.com\/rss"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/#!\/TheWebBlend"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.thewebblend.com\/api"
+        }
+    ]
+}
